@@ -1,0 +1,3 @@
+Código,CédulaDeportista,CédulaEntrenador,NombreEntrenador,Fecha
+17276637,3030303030,1011094104,mwmwiwm,2025-03-12
+24003524,3030303030,1011094104,mwmwiwm,2025-03-11

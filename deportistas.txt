@@ -1,0 +1,3 @@
+nombredepor,ceduladepor,especialidaddepor,contsesion
+jacobo,1011094108,fisioterapia,0
+ienfirnier,3030303030,fuerza,2

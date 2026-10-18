@@ -1,0 +1,10 @@
+# Archivos compilados
+*.class
+
+# Salidas de NetBeans
+build/
+dist/
+nbproject/private/
+
+# Archivos temporales que crea GestionDeportiva
+temp_*.txt

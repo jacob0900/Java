@@ -1,0 +1,2 @@
+cedula, nombre,especialidad de entrenamiento solicitada,numerosesiones
+1011094104,mwmwiwm,fuerza,2
